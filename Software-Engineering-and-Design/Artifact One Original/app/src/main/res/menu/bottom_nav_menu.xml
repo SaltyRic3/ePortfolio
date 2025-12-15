@@ -1,0 +1,14 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_login"
+        android:icon="@android:drawable/ic_menu_view"
+        android:title="@string/nav_login" />
+    <item
+        android:id="@+id/nav_grid"
+        android:icon="@android:drawable/ic_menu_sort_by_size"
+        android:title="@string/nav_inventory" />
+    <item
+        android:id="@+id/nav_sms"
+        android:icon="@android:drawable/ic_dialog_email"
+        android:title="@string/nav_sms" />
+</menu>

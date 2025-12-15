@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#000000"
+    android:padding="24dp">
+
+    <!-- 🔴 TOP-RIGHT LOGOUT BUTTON -->
+    <Button
+        android:id="@+id/logoutButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Logout"
+        android:textColor="@android:color/white"
+        android:backgroundTint="@android:color/holo_red_dark"
+        android:textAllCaps="false"
+        android:padding="8dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginTop="8dp"
+        android:layout_marginEnd="8dp" />
+
+    <!-- Scrollable content BELOW logout, ABOVE input panel -->
+    <ScrollView
+        android:id="@+id/scrollArea"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@id/inputPanel"
+        android:layout_below="@id/logoutButton"
+        android:fillViewport="true">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:gravity="center_horizontal">
+
+            <!-- Title -->
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/grid_title"
+                android:textSize="24sp"
+                android:textColor="#FFFFFF"
+                android:layout_marginBottom="24dp"
+                android:fontFamily="sans-serif-medium" />
+
+            <!-- Grid Table Header -->
+            <TableLayout
+                android:id="@+id/dataTable"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:stretchColumns="*"
+                android:layout_marginBottom="16dp">
+
+                <TableRow>
+                    <TextView
+                        android:text="@string/header_item"
+                        android:textStyle="bold"
+                        android:textColor="#90CAF9"
+                        android:padding="8dp" />
+
+                    <TextView
+                        android:text="@string/header_quantity"
+                        android:textStyle="bold"
+                        android:textColor="#90CAF9"
+                        android:padding="8dp" />
+
+                    <TextView
+                        android:text="@string/header_action"
+                        android:textStyle="bold"
+                        android:textColor="#90CAF9"
+                        android:padding="8dp" />
+                </TableRow>
+
+            </TableLayout>
+
+        </LinearLayout>
+    </ScrollView>
+
+    <!-- 🔵 FIXED INPUT PANEL ABOVE NAV BAR -->
+    <LinearLayout
+        android:id="@+id/inputPanel"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@id/bottom_nav"
+        android:orientation="vertical"
+        android:background="#000000"
+        android:paddingTop="12dp">
+
+        <EditText
+            android:id="@+id/itemNameInput"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:hint="@string/hint_item_name"
+            android:inputType="text"
+            android:padding="12dp"
+            android:background="#1C1C1C"
+            android:textColor="#FFFFFF"
+            android:textColorHint="#AAAAAA"
+            android:layout_marginBottom="8dp" />
+
+        <EditText
+            android:id="@+id/itemQuantityInput"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:hint="@string/hint_quantity"
+            android:inputType="number"
+            android:padding="12dp"
+            android:background="#1C1C1C"
+            android:textColor="#FFFFFF"
+            android:textColorHint="#AAAAAA"
+            android:layout_marginBottom="12dp" />
+
+        <Button
+            android:id="@+id/addItemButton"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:text="@string/button_add_item"
+            android:textColor="#000000"
+            android:backgroundTint="#90CAF9"
+            android:textAllCaps="false" />
+    </LinearLayout>
+
+    <!-- Bottom Navigation Bar -->
+    <com.google.android.material.bottomnavigation.BottomNavigationView
+        android:id="@+id/bottom_nav"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:background="#1C1C1C"
+        app:menu="@menu/bottom_nav_menu"
+        app:itemIconTint="@color/white"
+        app:itemTextColor="@color/white" />
+
+</RelativeLayout>

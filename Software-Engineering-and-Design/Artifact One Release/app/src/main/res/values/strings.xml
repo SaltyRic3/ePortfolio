@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CS360ProjectTwo</string>
+
+    <!-- Login Screen -->
+    <string name="login_title">Login</string>
+    <string name="hint_username">Username</string>
+    <string name="hint_password">Password</string>
+    <string name="forgot_username">Forgot Username?</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="button_login">Login</string>
+    <string name="button_register">Register</string>
+    <string name="please_fill_both_fields">Please enter both fields</string>
+    <string name="login_successful">Login successful</string>
+    <string name="invalid_credentials">Invalid credentials</string>
+    <string name="user_already_exists">User already exists</string>
+    <string name="user_registered">User registered successfully</string>
+
+    <!-- Data Grid Screen Strings -->
+    <string name="button_delete">Delete</string>
+    <string name="button_update">Update</string>
+    <string name="grid_title">Inventory Grid</string>
+    <string name="header_item">Item</string>
+    <string name="header_quantity">Quantity</string>
+    <string name="header_action">Action</string>
+    <string name="example_item">Example Item</string>
+    <string name="example_quantity">2</string>
+    <string name="hint_item_name">Item Name</string>
+    <string name="hint_quantity">Quantity</string>
+    <string name="button_add_item">Add Item</string>
+    <string name="enter_name_and_quantity">Please enter both name and quantity</string>
+    <string name="update_title">Update Quantity</string>
+    <string name="update_message">Enter new quantity for: %1$s</string>
+    <string name="update_success">Item updated</string>
+
+    <!-- SMS Permission Screen Strings -->
+    <string name="sms_title">Enable SMS Notifications</string>
+    <string name="sms_description">Grant SMS permission so the app can notify you about low inventory, upcoming events, or goals.</string>
+    <string name="sms_permission_granted">SMS permission granted.</string>
+    <string name="sms_permission_denied">SMS permission denied.</string>
+    <string name="button_request_sms">Request SMS Permission</string>
+    <string name="button_send_test_sms">Send Test SMS</string>
+
+    <!-- Bottom Navigation Bar Strings -->
+    <string name="nav_login">Login</string>
+    <string name="nav_inventory">Inventory</string>
+    <string name="nav_sms">SMS</string>
+</resources>
