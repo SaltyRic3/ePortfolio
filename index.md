@@ -16,23 +16,23 @@ Finally, this portfolio highlights my ability to communicate effectively and col
 
 Throughout my ePortfolio, the included artifacts and supporting narratives demonstrate my technical growth and professional readiness across the Computer Science program learning outcomes:
 
-- **Collaboration and Communication:**
+**Collaboration and Communication:**
 
 My work reflects collaboration through structured design processes, clear documentation, and a code review video that communicates technical decisions and improvements to diverse audiences.
 
-- **Professional Communication:**
+**Professional Communication:**
 
 I demonstrate professional-quality written, oral, and visual communication through detailed narratives, well-documented code, and clear explanations of design choices and trade-offs.
 
-- **Algorithms and Problem Solving:**
+**Algorithms and Problem Solving:**
 
 My algorithms artifact showcases the evaluation and implementation of appropriate data structures, including a Binary Search Tree and hash table, with consideration of efficiency, scalability, and design trade-offs.
 
-- **Software Engineering and Tools:**
+**Software Engineering and Tools:**
 
 Across my artifacts, I apply object-oriented design, Android development, backend Python development, and MongoDB technologies to build secure, maintainable, and industry-aligned solutions.
 
-- **Security Mindset:**
+**Security Mindset:**
 
 Security is integrated throughout my work through authentication, password hashing, role-based access control, input validation, session handling, and audit logging, reflecting a proactive approach to protecting data and systems.
 
@@ -46,15 +46,15 @@ Throughout the code review, I demonstrate professional-quality oral, written, an
 
 The code review is structured around three key elements:
 
-- **Existing Functionality:**
+**Existing Functionality:**
 
 A detailed walkthrough of each artifact’s original functionality, explaining how the code operates and what requirements it was originally designed to meet.
 
-- **Code Analysis:**
+**Code Analysis:**
 
 Identification of weaknesses and improvement areas related to structure, logic, efficiency, security, validation, testing considerations, and documentation.
 
-- **Enhancements:**
+**Enhancements:**
 
 A walkthrough of the enhancements applied to each artifact, including secure authentication, role-based access control, improved data validation, algorithmic restructuring, and backend security improvements that directly address issues identified during analysis.
 
