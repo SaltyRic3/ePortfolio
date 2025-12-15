@@ -1,5 +1,3 @@
-# Brian Voo – Computer Science ePortfolio
-
 # Professional Self-Assessment
 
 Throughout the Computer Science program and the CS 499 Capstone, I have developed the technical expertise, professional discipline, and security-focused mindset necessary to succeed in a modern computing environment. This ePortfolio represents the culmination of my academic journey and demonstrates my ability to design, evaluate, and enhance software solutions that are secure, efficient, and professionally structured. By revisiting earlier work and applying targeted enhancements, I was able to reflect on my growth and showcase measurable improvement across the program learning outcomes.
