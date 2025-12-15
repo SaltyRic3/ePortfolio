@@ -72,7 +72,7 @@ This artifact was originally created during my CS-360 Mobile Application Develop
 
 To enhance this artifact, I focused on transforming the application from a functional prototype into a more secure and professionally structured solution. Enhancements included implementing secure authentication with password hashing, adding role-based access control, strengthening input validation, and improving session handling and UI flow. These changes reflect industry-aligned software engineering practices and demonstrate my ability to evaluate existing designs, identify weaknesses, and apply structured improvements that increase security, maintainability, and overall software quality.
 
-**Click here to view the full narrative** \| [View Narative](https://github.com/SaltyRic3/ePortfolio/blob/main/Narratives/CS499%20-%203-2%20Milestone%20Two%20-%20Enhancement%20One%20-%20Software%20Design%20and%20Engineering%20-%20Voo.docx)
+**Click here to view the full narrative** \| [View Narative](https://github.com/SaltyRic3/ePortfolio/blob/main/Narratives/Artifact%20One%20Narrative.pdf)
 
 - [Original Build Files](https://github.com/SaltyRic3/ePortfolio/tree/main/Software-Engineering-and-Design/Artifact%20One%20Original)
 - [Final Build Files](https://github.com/SaltyRic3/ePortfolio/tree/main/Software-Engineering-and-Design/Artifact%20One%20Release)
@@ -105,7 +105,7 @@ This artifact was originally developed during my CS-300 Data Structures and Algo
 
 To enhance this artifact, I implemented a Binary Search Tree (BST) alongside the existing hash table and restructured the program logic to support both data structures. This enhancement introduced recursive insertion, searching, and in-order traversal, allowing the program to display courses in sorted order without relying on an additional sorting algorithm. These changes strengthened the algorithmic depth of the program and demonstrated my ability to evaluate and apply appropriate data structures based on problem requirements and efficiency considerations.
 
-**Click here to view the full narrative** \| [View Narative](https://github.com/SaltyRic3/ePortfolio/blob/main/Narratives/CS499%20-%204-2%20Milestone%20Three%20-%20Enhancement%20Two%20-%20Algorithms%20and%20Data%20Structure%20-%20Voo.docx)
+**Click here to view the full narrative** \| [View Narative](https://github.com/SaltyRic3/ePortfolio/blob/main/Narratives/Artifact%20Two%20Narrative.pdf)
 
 - [Original Build Files](https://github.com/SaltyRic3/ePortfolio/tree/main/Algorithms-and-Data-Structures/Artifact%20Two%20Orignal)
 - [Final Build Files](https://github.com/SaltyRic3/ePortfolio/tree/main/Algorithms-and-Data-Structures/Artifact%20Two%20Release)
@@ -137,7 +137,7 @@ This artifact was originally developed during the CS-340 Client/Server Developme
 
 To enhance this artifact, I redesigned the module to include application-level authentication with hashed and salted passwords, input validation to reduce injection risks, audit logging for all CRUD operations, and MongoDB aggregation pipelines to support analytical queries. These enhancements transformed the module from a simple CRUD interface into a more secure, robust, and professional data-access layer suitable for real-world software systems.
 
-**Click here to view the full narrative** \| [View Narative](https://github.com/SaltyRic3/ePortfolio/blob/main/Narratives/CS499%20-%205-2%20Milestone%20Four%20-%20Enhancement%20Three%20-%20Databases%20-%20Voo.docx)
+**Click here to view the full narrative** \| [View Narative](https://github.com/SaltyRic3/ePortfolio/blob/main/Narratives/Artifact%20Three%20Narrative.pdf)
 
 - [Original Build Files](https://github.com/SaltyRic3/ePortfolio/tree/main/Databases/Artifact%20Three%20Original)
 - [Final Build Files](https://github.com/SaltyRic3/ePortfolio/tree/main/Databases/Artifact%20Three%20Release)
