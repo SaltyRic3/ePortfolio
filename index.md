@@ -18,23 +18,23 @@ Finally, this portfolio highlights my ability to communicate effectively and col
 
 Throughout my ePortfolio, the included artifacts and supporting narratives demonstrate my technical growth and professional readiness across the Computer Science program learning outcomes:
 
-- Collaboration and Communication:
+- **Collaboration and Communication:**
 
 My work reflects collaboration through structured design processes, clear documentation, and a code review video that communicates technical decisions and improvements to diverse audiences.
 
-- Professional Communication:
+- **Professional Communication:**
 
 I demonstrate professional-quality written, oral, and visual communication through detailed narratives, well-documented code, and clear explanations of design choices and trade-offs.
 
-- Algorithms and Problem Solving:
+- **Algorithms and Problem Solving:**
 
 My algorithms artifact showcases the evaluation and implementation of appropriate data structures, including a Binary Search Tree and hash table, with consideration of efficiency, scalability, and design trade-offs.
 
-- Software Engineering and Tools:
+- **Software Engineering and Tools:**
 
 Across my artifacts, I apply object-oriented design, Android development, backend Python development, and MongoDB technologies to build secure, maintainable, and industry-aligned solutions.
 
-- Security Mindset:
+- **Security Mindset:**
 
 Security is integrated throughout my work through authentication, password hashing, role-based access control, input validation, session handling, and audit logging, reflecting a proactive approach to protecting data and systems.
 
@@ -48,21 +48,21 @@ Throughout the code review, I demonstrate professional-quality oral, written, an
 
 The code review is structured around three key elements:
 
-- Existing Functionality:
+- **Existing Functionality:**
 
 A detailed walkthrough of each artifact’s original functionality, explaining how the code operates and what requirements it was originally designed to meet.
 
-- Code Analysis:
+- **Code Analysis:**
 
 Identification of weaknesses and improvement areas related to structure, logic, efficiency, security, validation, testing considerations, and documentation.
 
-- Enhancements:
+- **Enhancements:**
 
 A walkthrough of the enhancements applied to each artifact, including secure authentication, role-based access control, improved data validation, algorithmic restructuring, and backend security improvements that directly address issues identified during analysis.
 
-<iframe align="center" width="900" height="480" src="https://youtu.be/X0yLq4RSvoc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="900" height="480" src="https://www.youtube.com/embed/X0yLq4RSvoc?si=srUblmTcdU_ru5Gl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-# Artifact One : Software Engineering and Design
+# Artifact One: Software Engineering and Design
 
 **Introduction:**
 
@@ -72,12 +72,16 @@ This artifact was originally created during my CS-360 Mobile Application Develop
 
 To enhance this artifact, I focused on transforming the application from a functional prototype into a more secure and professionally structured solution. Enhancements included implementing secure authentication with password hashing, adding role-based access control, strengthening input validation, and improving session handling and UI flow. These changes reflect industry-aligned software engineering practices and demonstrate my ability to evaluate existing designs, identify weaknesses, and apply structured improvements that increase security, maintainability, and overall software quality.
 
-**Click here to view the full narrative** **|** [View Narative](https://github.com/SaltyRic3/ePortfolio/blob/main/Narratives/CS499%20-%203-2%20Milestone%20Two%20-%20Enhancement%20One%20-%20Software%20Design%20and%20Engineering%20-%20Voo.docx)
+**Click here to view the full narrative** \| [View Narative](https://github.com/SaltyRic3/ePortfolio/blob/main/Narratives/CS499%20-%203-2%20Milestone%20Two%20-%20Enhancement%20One%20-%20Software%20Design%20and%20Engineering%20-%20Voo.docx)
 
 - [Original Build Files](https://github.com/SaltyRic3/ePortfolio/tree/main/Software-Engineering-and-Design/Artifact%20One%20Original)
 - [Final Build Files](https://github.com/SaltyRic3/ePortfolio/tree/main/Software-Engineering-and-Design/Artifact%20One%20Release)
 
-**Image Place Holder**
+<div style="text-align: center;">
+    <a href="https://github.com/SaltyRic3/ePortfolio/blob/main/assets/Artifact%20One.jpg" target="_blank">
+		<img src="assets/Artifact%20One.jpg" width="320px" title="Inventory Tracker"/>
+	</a>
+</div>
 
 **Conclusion:**
 
@@ -91,7 +95,7 @@ I encountered challenges while restructuring the application flow and enforcing 
 
 Enhancing this artifact as part of the Software Engineering and Design category has reinforced my growth as a computer science professional. The experience strengthened my understanding of secure application architecture, improved my attention to detail, and increased my confidence in applying industry-aligned practices. Overall, this artifact reflects my ability to produce professional-quality software and my readiness to continue developing secure and reliable systems in a real-world computing environment.
 
-# Artifact Two : Algorithms and Data Structures
+# Artifact Two: Algorithms and Data Structures
 
 **Introduction:**
 
@@ -101,12 +105,16 @@ This artifact was originally developed during my CS-300 Data Structures and Algo
 
 To enhance this artifact, I implemented a Binary Search Tree (BST) alongside the existing hash table and restructured the program logic to support both data structures. This enhancement introduced recursive insertion, searching, and in-order traversal, allowing the program to display courses in sorted order without relying on an additional sorting algorithm. These changes strengthened the algorithmic depth of the program and demonstrated my ability to evaluate and apply appropriate data structures based on problem requirements and efficiency considerations.
 
-**Click here to view the full narrative** **|** [View Narative](https://github.com/SaltyRic3/ePortfolio/blob/main/Narratives/CS499%20-%204-2%20Milestone%20Three%20-%20Enhancement%20Two%20-%20Algorithms%20and%20Data%20Structure%20-%20Voo.docx)
+**Click here to view the full narrative** \| [View Narative](https://github.com/SaltyRic3/ePortfolio/blob/main/Narratives/CS499%20-%204-2%20Milestone%20Three%20-%20Enhancement%20Two%20-%20Algorithms%20and%20Data%20Structure%20-%20Voo.docx)
 
 - [Original Build Files](https://github.com/SaltyRic3/ePortfolio/tree/main/Algorithms-and-Data-Structures/Artifact%20Two%20Orignal)
 - [Final Build Files](https://github.com/SaltyRic3/ePortfolio/tree/main/Algorithms-and-Data-Structures/Artifact%20Two%20Release)
 
-**Image Place Holder**
+<div style="text-align: center;">
+    <a href="https://github.com/SaltyRic3/ePortfolio/blob/main/assets/Artifact%20Two.jpg" target="_blank">
+		<img src="assets/Artifact%20Two.jpg" width="800px" title="Course Planner program"/>
+	</a>
+</div>
 
 **Conclusion:**
 
@@ -119,7 +127,7 @@ Throughout the enhancement process, I gained a deeper understanding of how diffe
 Enhancing this artifact strengthened my confidence in applying algorithms and data structures to real-world problems. It reinforced my ability to analyze existing solutions, justify design decisions, and implement improvements that align with computer science best practices. Overall, this artifact reflects my growth in algorithmic thinking and my readiness to design efficient, well-structured solutions in a professional computing environment.
 
 
-# Artifact Three : Databases
+# Artifact Three: Databases
 
 **Introduction:**
 
@@ -129,12 +137,16 @@ This artifact was originally developed during the CS-340 Client/Server Developme
 
 To enhance this artifact, I redesigned the module to include application-level authentication with hashed and salted passwords, input validation to reduce injection risks, audit logging for all CRUD operations, and MongoDB aggregation pipelines to support analytical queries. These enhancements transformed the module from a simple CRUD interface into a more secure, robust, and professional data-access layer suitable for real-world software systems.
 
-**Click here to view the full narrative** **|** [View Narative](https://github.com/SaltyRic3/ePortfolio/blob/main/Narratives/CS499%20-%205-2%20Milestone%20Four%20-%20Enhancement%20Three%20-%20Databases%20-%20Voo.docx)
+**Click here to view the full narrative** \| [View Narative](https://github.com/SaltyRic3/ePortfolio/blob/main/Narratives/CS499%20-%205-2%20Milestone%20Four%20-%20Enhancement%20Three%20-%20Databases%20-%20Voo.docx)
 
 - [Original Build Files](https://github.com/SaltyRic3/ePortfolio/tree/main/Databases/Artifact%20Three%20Original)
 - [Final Build Files](https://github.com/SaltyRic3/ePortfolio/tree/main/Databases/Artifact%20Three%20Release)
 
-**Image Place Holder**
+<div style="text-align: center;">
+    <a href="https://github.com/SaltyRic3/ePortfolio/blob/main/assets/Artifact%20Three.jpg" target="_blank">
+		<img src="assets/Artifact%20Three.jpg" width="800px" title="Grazioso Salvare Project"/>
+	</a>
+</div>
 
 **Conclusion:**
 
