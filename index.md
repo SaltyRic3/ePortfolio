@@ -58,7 +58,7 @@ Identification of weaknesses and improvement areas related to structure, logic, 
 
 A walkthrough of the enhancements applied to each artifact, including secure authentication, role-based access control, improved data validation, algorithmic restructuring, and backend security improvements that directly address issues identified during analysis.
 
-<iframe width="900" height="480" src="https://www.youtube.com/embed/X0yLq4RSvoc?si=srUblmTcdU_ru5Gl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="700" height="480" src="https://www.youtube.com/embed/X0yLq4RSvoc?si=srUblmTcdU_ru5Gl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 # Artifact One: Software Engineering and Design
 
